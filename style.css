@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    width: 500px;
+    height: 500px;
+}
+a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+h1{
+
+    display: flex;
+    margin-left: 140px;
+    font-size: 60px;
+}
+/*#canva{
+    width: 500px;
+    height: 500px;
+    margin-left: 140px;
+    background-color: aqua;
+
+}*/

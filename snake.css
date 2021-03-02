@@ -1,0 +1,14 @@
+body {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+}
+#snakeboard {
+    border-radius: 10;
+    border: 1px solid black;
+    margin-left: 50px;
+}
+#score {
+    text-align: center;
+    font-size: 100px;
+};
